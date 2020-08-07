@@ -33,3 +33,7 @@ pretty print all of [array, slice, struct, map ...]
 
           prettyprint.P(v)
       }
+      
+      
+      
+      [!Image](https://raw.githubusercontent.com/dugei/pretty-print/master/p.png)
