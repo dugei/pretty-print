@@ -36,4 +36,4 @@ pretty print all of [array, slice, struct, map ...]
       
       
       
-      [!Image](https://raw.githubusercontent.com/dugei/pretty-print/master/p.png)
+[!Image](https://raw.githubusercontent.com/dugei/pretty-print/master/p.png)
